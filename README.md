@@ -1,6 +1,6 @@
 # 🔎 Job opportunity
- Looking for an opportunity to work as an apprenticeship Front-End Web Developer for the year 2024/2025
-
+ I'm seeking an apprenticeship position as a Front-End Web Developer for the year 2024/2025.
+ 
 # 💫 About Me:
 🎓 Computer science student, I prepare my DevOps bachelor degree at EPSI Paris.<br>📱I have a basic experience in Android development using Java and Kotlin.<br>🌐 Currently broadening my skills by venturing into Web Development.<br>🫂 I love sharing my experience with others, and I love to learn something new every single day.<br>🚀 “We become what we repeatedly do.”
 
