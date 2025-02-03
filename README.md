@@ -1,14 +1,12 @@
-# 🔎 Job opportunity
- I'm seeking an apprenticeship position as a Front-End Web Developer for the year 2024/2025.
- 
-# 💫 About Me:
-🎓 Computer science student, I prepare my DevOps bachelor degree at EPSI Paris.<br>📱I have a basic experience in Android development using Java and Kotlin.<br>🌐 Currently broadening my skills by venturing into Web Development.<br>🫂 I love sharing my experience with others, and I love to learn something new every single day.<br>🚀 “We become what we repeatedly do.”
+# About Me:
+Hello! Passionate about web development, I am currently an apprentice at Les Bons Artisans, where I work with React, Node.js and MongoDB to build efficient and scalable applications.
 
+### My Stack:
+MongoDB, Express.js, React, Node.js – building modern, high-performance web applications from front to back.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+I enjoy solving complex problems and crafting user-friendly experiences through clean, optimized code. Always eager to learn, adapt, and grow, I thrive on new challenges and continuous improvement.
+
+💬 Let’s connect! I’m open to discussions about tech, projects, and new opportunities.
 
 ### ✍️ Someone once said...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
