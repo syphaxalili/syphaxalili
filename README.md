@@ -7,6 +7,3 @@ MongoDB, Express.js, React, Node.js – building modern, high-performance web ap
 I enjoy solving complex problems and crafting user-friendly experiences through clean, optimized code. Always eager to learn, adapt, and grow, I thrive on new challenges and continuous improvement.
 
 💬 Let’s connect! I’m open to discussions about tech, projects, and new opportunities.
-
-### ✍️ Someone once said...
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
